@@ -1,3 +1,21 @@
+# Bahceden
+
+Bahceden is an innovative e-commerce Android application that eliminates intermediaries between local producers and customers. Our goal is to create a transparent and fair marketplace that empowers local producers and provides customers with access to healthier and more affordable products.
+
+## Summary
+
+Bahceden offers a platform for local producers to sell their goods directly to consumers, cutting out middlemen who often exploit the system by buying products at low prices and selling them at inflated rates. To assist both parties, we provide an intelligent price prediction system and up-to-date market data, enabling producers to make informed pricing decisions.
+
+## Technologies Used
+
+- Android Studio: For frontend development and creating an intuitive user interface.
+- Retrofit: To simplify network communication and handle HTTP requests between frontend and backend.
+- Firebase: Integrated for authentication services, including sign-in and sign-up features.
+- Spring Framework: Used to build a REST API for seamless communication between frontend and backend.
+- Lombok: Java library that reduces repetitive code in the backend and improves development efficiency.
+- MySQL: Chosen as the database management system to store crucial data for the app.
+- Jsoup and Selenium: Libraries utilized for web scraping to gather and organize data from online sources.
+  
 # Bahceden App Setup Guide
 Welcome to the Bahceden application setup guide! This guide will walk you through how to get your local development environment set up.
 
